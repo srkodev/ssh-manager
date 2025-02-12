@@ -40,7 +40,7 @@ Ce projet est proposé sous une **double licence** :
 ```markdown
 MIT License avec Commons Clause (Usage Non Commercial)
 
-Copyright (c) [Année] [Votre Nom]
+Copyright (c) 2025 
 
 Permission est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), de l'utiliser, le copier, le modifier, le fusionner, le publier, le distribuer, le sous-licencier et/ou le vendre, sous réserve des conditions suivantes :
 
@@ -52,12 +52,12 @@ LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IM
 ```
 
 ### 2. Licence commerciale  
-**Accord de Licence Commerciale pour [Nom du Projet]**
+**Accord de Licence Commerciale pour ssh-manager**
 
 ```markdown
-Accord de Licence Commerciale pour [Nom du Projet]
+Accord de Licence Commerciale pour ssh-manager
 
-Copyright (c) [Année] [Votre Nom]
+Copyright (c) 2025
 
 Cet Accord de Licence Commerciale ("Accord") est conclu entre [Votre Nom] (le "Concédant") et l'entité ou la personne ("Licencié") qui obtient une copie du Logiciel. En utilisant le Logiciel à des fins commerciales, le Licencié accepte d'être lié par les termes du présent Accord.
 
