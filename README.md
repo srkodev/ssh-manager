@@ -20,7 +20,6 @@ npm run build
 Une fois le build React terminé, revenez à la racine du projet et générez l'application Electron :
 
 ```sh
-Copier
 cd ../../
 npm install
 npm run build
