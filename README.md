@@ -50,31 +50,3 @@ Commons Clause : Le Logiciel est fourni exclusivement pour un usage non commerci
 
 LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, NOTAMMENT SANS LES GARANTIES DE QUALITÉ MARCHANDE, D'ADAPTATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU TITULAIRES DU COPYRIGHT NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ, QU'IL SOIT CONTRACTUEL, DÉLICTUEL OU AUTRE, DÉCOULANT DE, OU EN RELATION AVEC, L'UTILISATION OU LA PERFORMANCE DU LOGICIEL.
 ```
-
-### 2. Licence commerciale  
-**Accord de Licence Commerciale pour ssh-manager**
-
-```markdown
-Accord de Licence Commerciale pour ssh-manager
-
-Copyright (c) 2025
-
-Cet Accord de Licence Commerciale ("Accord") est conclu entre [Votre Nom] (le "Concédant") et l'entité ou la personne ("Licencié") qui obtient une copie du Logiciel. En utilisant le Logiciel à des fins commerciales, le Licencié accepte d'être lié par les termes du présent Accord.
-
-1. **Octroi de licence**  
-   Sous réserve du respect par le Licencié des termes du présent Accord, le Concédant accorde au Licencié une licence non-exclusive, non-transférable, pour utiliser, modifier, distribuer et intégrer le Logiciel dans des produits commerciaux.
-
-2. **Modalités financières**  
-   L'utilisation commerciale du Logiciel est soumise au paiement d'une redevance de licence, dont le montant et les conditions seront définis au cas par cas dans un avenant écrit à cet Accord.
-
-3. **Restrictions**  
-   Le Licencié s'engage à ne pas redistribuer ou sous-licencier le Logiciel à des tiers sans l'accord écrit préalable du Concédant.
-
-4. **Exclusion de garantie**  
-   LE LOGICIEL EST FOURNI "TEL QUEL", SANS AUCUNE GARANTIE, EXPLICITE OU IMPLICITE.
-
-5. **Limitation de responsabilité**  
-   EN AUCUN CAS, LE CONCÉDANT NE POURRAIT ÊTRE TENU RESPONSABLE DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE, SPÉCIAL OU CONSÉCUTIF DÉCOULANT DE L'UTILISATION OU DE L'INCAPACITÉ D'UTILISER LE LOGICIEL.
-
-Pour obtenir une licence commerciale, merci de contacter : srko.dj@gmail.com.
-```
